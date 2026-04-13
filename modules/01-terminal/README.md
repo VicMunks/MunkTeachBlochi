@@ -2,6 +2,26 @@
 
 This module is about getting comfortable with the terminal. You will use it to move around folders, create new folders, generate a C# project, and run code.
 
+## Clone this repository first
+
+Choose one option:
+
+Option A: HTTPS (easiest)
+
+```powershell
+git clone https://github.com/VicMunks/MunkTeachBlochi.git
+cd MunkTeachBlochi
+```
+
+Option B: SSH (if you already configured SSH keys)
+
+```powershell
+git clone git@github.com:VicMunks/MunkTeachBlochi.git
+cd MunkTeachBlochi
+```
+
+If clone fails with authentication, use HTTPS (Option A).
+
 ## Move between folders
 
 Use `cd` to change directory.
